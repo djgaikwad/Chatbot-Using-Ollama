@@ -1,5 +1,7 @@
 # Chatbot-Using-Ollama
 
+Download the Llama2 model using Ollama.
+
 Create a Virtual Environment and install dependencies using requirements.txt.
 
 Create a .env file and store the LangChain API key.
